@@ -3,7 +3,7 @@
 ## NEXT LEVEL WEEK #03 - HAPPY
 
 <p>
-Bring <strong> happiness </strong> to the world, Visit <strong>orphanages</strong> and change the day
+Bring <strong> happiness </strong> to the world, visit <strong>orphanages</strong> and change the day
 of many <strong>children.</strong></p>
 
 <p>
@@ -27,7 +27,7 @@ Table of Contents:
    * [License](#license)
 
 ## NLW
-  **Next Level Week** is an online event with lots of code, challenges, networking and a single objective: to take you to the next leve.
+  **Next Level Week** is an online event with lots of code, challenges, networking and a single objective: to take you to the next level.
 ##### Desenvolved by [Rocketseat](https://rocketseat.com.br).
 
 ## Features
